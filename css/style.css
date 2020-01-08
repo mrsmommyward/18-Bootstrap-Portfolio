@@ -1,0 +1,25 @@
+.navbar {
+    flex: right;
+}
+
+.lead {
+    padding-top: 150px;
+}
+
+.profileImg {
+    padding-left: 150px;
+}
+
+.welcome {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.card-img-top {
+    padding-bottom: 20px;
+}
+
+.card-body {
+
+}
